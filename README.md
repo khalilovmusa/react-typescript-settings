@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilovmusa.eslint-prettier-react-ts" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ESLint+%2B+Prettier+Setup+for+React+%2B+TS" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ESLint+%2B+Prettier+Setup+for+React+%2B+TS" />
 </h1>
 
 <h3 align="center">Clean code, consistent formatting, and scalable linting—all in one repo ⚡</h3>
