@@ -10,7 +10,7 @@
 
 ## 📸 Featured on Instagram
 
-This config was shared in [Instagram page](https://instagram.com/justdevhints)—check it out for a visual walkthrough and setup tips!
+This config was shared in [Instagram page](https://www.instagram.com/justdevhints/)—check it out for a visual walkthrough and setup tips!
 
 ---
 
