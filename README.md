@@ -62,7 +62,7 @@ yarn add --dev eslint prettier typescript \
 <br/>
 npm run lint
 npm run format
----
+
 <br/>
 📦 Using Yarn:
 <br/>
