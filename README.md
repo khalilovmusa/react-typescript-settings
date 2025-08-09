@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilovmusa.eslint-prettier-react-ts" />
 
 <h1 align="center">
